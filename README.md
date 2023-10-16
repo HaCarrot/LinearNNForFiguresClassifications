@@ -5,3 +5,5 @@ Here are:
 - Small Dataset with Figures, Lines And Points
 - Python script with Neural Network
 - Python script (Dataset Expander)
+
+Accuracy: ~80%
